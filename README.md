@@ -12,5 +12,7 @@ stop_1330545910.avi_image0.png | stop | 862 | 104 | 916 | 158 | 0 | 0 | aiua1202
 stop_1330545910.avi_image0.png | speedLimitUrdbl | 425 | 197 | 438 | 213 | 0 | 0 | aiua120214-0/DataLog02142012_external_camera.avi | 2667 | stop_1330545910.avi | 2
 
 the VOC .xml output is:
-[generated .xml file](./image/xml_example.jpg)
+
+![image](./images/xml_example.jpg)
+
 
